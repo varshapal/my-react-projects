@@ -1,0 +1,24 @@
+.cart {
+    width: 90%;
+    height: auto;
+    
+    
+}
+.cart img {
+    width: 50px;
+    border: none;
+}
+
+.cart input {
+    margin-left: 20px;
+    width: 2rem;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+.cart Button {
+    margin-left: 20px;
+    text-align: center;
+
+
+}

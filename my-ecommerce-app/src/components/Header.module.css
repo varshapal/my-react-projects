@@ -1,0 +1,9 @@
+.header {
+    background-color: black;
+}
+
+.header a.active {
+    color: white;
+    padding-bottom: 0.25rem;
+    
+}

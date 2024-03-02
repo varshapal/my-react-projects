@@ -1,0 +1,37 @@
+.control {
+    margin: 1rem 0;
+    margin-top: 60px;
+    
+  }
+  .control form {
+    width: 60%;
+    background-color: aqua;
+  }
+
+  .control label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    text-align: left;
+  }
+  .button {
+    margin-top: 5rem;
+    margin-left: 40rem;
+    margin-bottom: 5rem;
+  }
+  
+  .control input,
+  .control textarea {
+    display: block;
+    width: 100%;
+    font: inherit;
+    padding: 0.2rem;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+  }
+  
+  .control input:focus,
+  .control textarea:focus {
+    outline: none;
+    border-color: #230052;
+  }

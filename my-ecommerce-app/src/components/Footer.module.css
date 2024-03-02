@@ -1,0 +1,23 @@
+.footer {
+    height: 10rem;
+    background-color: skyblue;
+    color: white;
+    
+}
+
+.footer h2 {
+    
+    text-align: left;
+    margin-left: 10rem;
+    padding-top: 30px;
+    font-size: 5rem;
+    float: left;
+    
+}
+
+.footer button{
+    text-align: right;
+    margin-left: 5rem;
+    margin-top: 50px;
+
+}
