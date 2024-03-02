@@ -1,0 +1,30 @@
+.expense {
+    width: 60%;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 5rem auto 0 auto;
+    
+}
+
+.expense label, input{
+    margin: 0 5px;
+    display: inline;
+}
+
+
+
+.expense button {
+    margin-top: 3rem;
+    margin-right: 1rem;
+    
+}
+
+.light-theme {
+    background-color: #f5f5f5;
+    color: #000;
+}
+
+.dark-theme {
+    background-color: #1a1a1a;
+    color: #fff;
+}
