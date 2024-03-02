@@ -1,0 +1,18 @@
+.cart {
+    background-color: rgb(145, 148, 145);
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 30rem;
+    border-radius: 10px;
+    position: relative;
+    left: 10rem;
+    
+}
+
+.button {
+    background-color: #bf712e;
+    border-radius: 5px;
+    position: absolute;
+    right: 5px;
+}
+
