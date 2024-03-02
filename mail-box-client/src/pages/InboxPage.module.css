@@ -1,0 +1,85 @@
+.inbox {
+  width: 100%;
+  margin-top: 2px;
+}
+.header {
+  background-color: rgb(153, 153, 188);
+}
+
+.search {
+  margin-top: 5px;
+  
+}
+
+.inbox img {
+  width: 100px;
+  height: 50px;
+}
+
+.leftside {
+  background-color: rgb(224, 221, 221);
+  height: 90vh;
+}
+
+.leftoptions {
+  margin-left: 10px;
+  margin-top: 5px;
+  
+  
+}
+
+.leftside Button {
+  margin-top: 10px;
+  width: 90%;
+}
+
+.leftside ul li {
+  list-style-type: none;
+  padding-top: 10px;
+  
+
+}
+.leftside ul {
+  padding-left: 15px;
+}
+.list {
+  display: flex;
+  margin-top: 7px;
+  
+}
+ 
+.emailList {
+  display: flex;
+  justify-content: space-between;
+}
+.deleteIcon {
+  margin-top: 7px;
+  
+}
+
+.active {
+  background-color: rgb(207, 207, 209);
+  width: 8rem;
+  border-radius: 2px;
+    /* display: flex;
+    justify-content: space-between; */
+  
+}
+.message {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bluedot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgb(167, 167, 242);
+  margin-top: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+ .rightside {
+  background-color: aquamarine;
+ }
